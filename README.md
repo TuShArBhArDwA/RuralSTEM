@@ -1,16 +1,14 @@
-# 🌾 RuralSTEM-Saga
+# RuralSTEM-Saga
 
-## Smart India Hackathon 2025 - Problem Statement 25048
-
-**Revolutionizing Rural Education Through Interactive STEM Learning**
+<img width="1918" height="972" alt="image" src="https://github.com/user-attachments/assets/d8f409d8-bb44-4724-a00e-1e9ecc0ee302" />
 
 ---
 
-## 📖 Overview
+## Overview
 
 RuralSTEM-Saga is an innovative educational platform designed to bridge the digital divide in rural India by providing engaging, gamified STEM learning experiences. Built specifically for students in rural areas, this platform transforms traditional learning into an interactive adventure that works both online and offline.
 
-### 🎯 Problem Statement 25048
+### Problem Statement 25048
 
 **Challenge**: Enhancing rural education through digital innovation while addressing connectivity challenges and cultural barriers.
 
@@ -24,9 +22,9 @@ RuralSTEM-Saga is an innovative educational platform designed to bridge the digi
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 🎮 Interactive Learning Games
+### Interactive Learning Games
 
 #### Mathematics
 - **Algebra Adventure** - Master algebraic equations through quest-based gameplay
@@ -41,13 +39,13 @@ RuralSTEM-Saga is an innovative educational platform designed to bridge the digi
 #### Engineering
 - **Bridge Builder** - Apply physics and engineering principles to construct virtual structures
 
-### 🌍 Accessibility & Localization
+### Accessibility & Localization
 - **Multi-language Support**: Full localization in English, Hindi, and Odia
 - **Responsive Design**: Optimized for mobile phones, tablets, and desktop computers
 - **Low-bandwidth Optimization**: Efficient loading for slow internet connections
 - **Offline Mode**: Continue learning without internet connectivity
 
-### 🏆 Engagement Features
+### Engagement Features
 - **Achievement System**: Unlock badges and certificates for milestones
 - **Leaderboards**: School and regional competitions to motivate students
 - **Progress Tracking**: Detailed analytics for students and teachers
@@ -55,7 +53,7 @@ RuralSTEM-Saga is an innovative educational platform designed to bridge the digi
 
 ---
 
-## 🚀 Technology Stack
+## Technology Stack
 
 ### Frontend
 - **Framework**: Next.js 15.5.3 with React 19.1.0
@@ -78,7 +76,7 @@ RuralSTEM-Saga is an innovative educational platform designed to bridge the digi
 
 ---
 
-## 🎯 Target Audience
+## Target Audience
 
 ### Primary Users
 - **Rural Students** (Ages 10-18): Interactive STEM learning with cultural relevance
@@ -92,7 +90,7 @@ RuralSTEM-Saga is an innovative educational platform designed to bridge the digi
 
 ---
 
-## 🌟 Impact Goals
+## Impact Goals
 
 ### Educational Impact
 - **Improve STEM Learning**: Make complex concepts accessible through gamification
@@ -108,21 +106,21 @@ RuralSTEM-Saga is an innovative educational platform designed to bridge the digi
 
 ---
 
-## 📱 App Features
+## App Features
 
-### 🎮 Gaming Experience
+### Gaming Experience
 - **12+ Interactive Games** across STEM subjects
 - **Progressive Difficulty** adapting to student skill level
 - **Real-time Feedback** with explanations for wrong answers
 - **Time Management** skills through timed challenges
 
-### 📊 Analytics Dashboard
+### Analytics Dashboard
 - **Student Progress**: Individual learning analytics and recommendations
 - **Teacher Dashboard**: Classroom management and student monitoring
 - **School Rankings**: Institutional performance comparisons
 - **Achievement Tracking**: Badges, certificates, and milestone rewards
 
-### 🔄 Offline Capabilities
+### Offline Capabilities
 - **Game Downloads**: Play educational games without internet
 - **Progress Sync**: Automatic synchronization when connection resumes
 - **Offline Resources**: Access to educational content and reference materials
@@ -130,7 +128,7 @@ RuralSTEM-Saga is an innovative educational platform designed to bridge the digi
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Node.js 18+ 
@@ -176,7 +174,7 @@ NEXT_PUBLIC_APP_VERSION=1.0.0
 
 ---
 
-## 🎨 Design Philosophy
+## Design Philosophy
 
 ### User Experience
 - **Mobile-First**: Designed primarily for smartphone users
@@ -206,7 +204,17 @@ For technical issues or educational content queries, please create an issue in t
 
 ## License
 
-This project is developed for Smart India Hackathon 2025 and educational purposes. All educational content and games are designed for non-commercial use in rural education settings.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## Contact
+- **Meet T-Bot** - [Discover My Work](https://t-bot-blush.vercel.app/)
+- **Tushar Bhardwaj** - [Portfolio](https://tushar-bhardwaj.vercel.app/)
+- **Connect 1:1** - [Topmate](https://topmate.io/tusharbhardwaj)
+- **GitHub:** [TuShArBhArDwA](https://github.com/TuShArBhArDwA)
+- **LinkedIn:** [Tushar Bhardwaj](https://www.linkedin.com/in/bhardwajtushar2004/)
+- **Email:** [tusharbhardwaj2617@example.com](mailto:tusharbhardwaj2617@example.com)
 
 ---
 
